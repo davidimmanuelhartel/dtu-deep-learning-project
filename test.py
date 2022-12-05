@@ -17,7 +17,6 @@ import torch
 import util.misc as utils
 
 from models import build_model
-from datasets.face import make_face_transforms
 
 import matplotlib.pyplot as plt
 import time
